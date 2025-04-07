@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 1,
+    "project_name": "Prestige Cityscape Phase 1",
+    "location": "Panvel, Mumbai",
+    "price_range": "\u20b970L - \u20b9139L",
+    "type": "3BHK",
+    "status": "Under Construction",
+    "developer": "Prestige Group",
+    "features": [
+      "Smart Home Automation",
+      "Multipurpose Hall",
+      "Clubhouse",
+      "Senior Citizen Zone"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-cityscape.pdf"
+  },
+  {
+    "id": 2,
+    "project_name": "Prestige Shantiniketan Phase 5",
+    "location": "Whitefield, Bangalore",
+    "price_range": "\u20b9250L - \u20b9299L",
+    "type": "Villa",
+    "status": "Pre-Launch",
+    "developer": "Prestige Group",
+    "features": [
+      "24x7 Security",
+      "Power Backup",
+      "Smart Home Automation",
+      "Multipurpose Hall"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-shantiniketan.pdf"
+  },
+  {
+    "id": 3,
+    "project_name": "Prestige Park Grove Phase 3",
+    "location": "ECR, Chennai",
+    "price_range": "\u20b9120L - \u20b9181L",
+    "type": "Villa",
+    "status": "Launching Soon",
+    "developer": "Prestige Group",
+    "features": [
+      "Gymnasium",
+      "Senior Citizen Zone",
+      "Multipurpose Hall",
+      "Power Backup"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-park-grove.pdf"
+  },
+  {
+    "id": 4,
+    "project_name": "Prestige Cityscape Phase 4",
+    "location": "ECR, Chennai",
+    "price_range": "\u20b945L - \u20b970L",
+    "type": "Penthouse",
+    "status": "Launching Soon",
+    "developer": "Prestige Group",
+    "features": [
+      "Power Backup",
+      "Clubhouse",
+      "Senior Citizen Zone",
+      "Swimming Pool"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-cityscape.pdf"
+  },
+  {
+    "id": 5,
+    "project_name": "Prestige Eden Garden Phase 1",
+    "location": "ECR, Chennai",
+    "price_range": "\u20b945L - \u20b9119L",
+    "type": "Penthouse",
+    "status": "Pre-Launch",
+    "developer": "Prestige Group",
+    "features": [
+      "Clubhouse",
+      "Power Backup",
+      "Multipurpose Hall",
+      "Kids Play Area"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-eden-garden.pdf"
+  },
+  {
+    "id": 6,
+    "project_name": "Prestige Cityscape Phase 4",
+    "location": "Panvel, Mumbai",
+    "price_range": "\u20b970L - \u20b9115L",
+    "type": "Studio Apartment",
+    "status": "Under Construction",
+    "developer": "Prestige Group",
+    "features": [
+      "Multipurpose Hall",
+      "Senior Citizen Zone",
+      "Clubhouse",
+      "Swimming Pool"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-cityscape.pdf"
+  },
+  {
+    "id": 7,
+    "project_name": "Prestige Cityscape Phase 2",
+    "location": "Panvel, Mumbai",
+    "price_range": "\u20b945L - \u20b9123L",
+    "type": "Villa",
+    "status": "Under Construction",
+    "developer": "Prestige Group",
+    "features": [
+      "Swimming Pool",
+      "24x7 Security",
+      "Kids Play Area",
+      "Clubhouse"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-cityscape.pdf"
+  },
+  {
+    "id": 8,
+    "project_name": "Prestige Park Grove Phase 2",
+    "location": "Whitefield, Bangalore",
+    "price_range": "\u20b970L - \u20b997L",
+    "type": "4BHK",
+    "status": "Launching Soon",
+    "developer": "Prestige Group",
+    "features": [
+      "Senior Citizen Zone",
+      "Smart Home Automation",
+      "Kids Play Area",
+      "Multipurpose Hall"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-park-grove.pdf"
+  },
+  {
+    "id": 9,
+    "project_name": "Prestige Shantiniketan Phase 5",
+    "location": "Panvel, Mumbai",
+    "price_range": "\u20b9120L - \u20b9174L",
+    "type": "Studio Apartment",
+    "status": "Ready to Move",
+    "developer": "Prestige Group",
+    "features": [
+      "Swimming Pool",
+      "Multipurpose Hall",
+      "Power Backup",
+      "Clubhouse"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-shantiniketan.pdf"
+  },
+  {
+    "id": 10,
+    "project_name": "Prestige Waterford Phase 1",
+    "location": "ECR, Chennai",
+    "price_range": "\u20b970L - \u20b9143L",
+    "type": "3BHK",
+    "status": "Launching Soon",
+    "developer": "Prestige Group",
+    "features": [
+      "24x7 Security",
+      "Power Backup",
+      "Smart Home Automation",
+      "Gymnasium"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-waterford.pdf"
+  },
+  {
+    "id": 11,
+    "project_name": "Prestige Raintree Park Phase 4",
+    "location": "Whitefield, Bangalore",
+    "price_range": "\u20b970L - \u20b9104L",
+    "type": "4BHK",
+    "status": "Launching Soon",
+    "developer": "Prestige Group",
+    "features": [
+      "Multipurpose Hall",
+      "Gymnasium",
+      "24x7 Security",
+      "Power Backup"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-raintree-park.pdf"
+  },
+  {
+    "id": 12,
+    "project_name": "Prestige Lakeside Habitat Phase 1",
+    "location": "Rajarhat, Kolkata",
+    "price_range": "\u20b945L - \u20b9110L",
+    "type": "Studio Apartment",
+    "status": "Pre-Launch",
+    "developer": "Prestige Group",
+    "features": [
+      "Multipurpose Hall",
+      "Gymnasium",
+      "Swimming Pool",
+      "Clubhouse"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-lakeside-habitat.pdf"
+  },
+  {
+    "id": 13,
+    "project_name": "Prestige Park Grove Phase 3",
+    "location": "Panvel, Mumbai",
+    "price_range": "\u20b945L - \u20b994L",
+    "type": "2BHK",
+    "status": "Pre-Launch",
+    "developer": "Prestige Group",
+    "features": [
+      "Gymnasium",
+      "Smart Home Automation",
+      "Power Backup",
+      "Multipurpose Hall"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-park-grove.pdf"
+  },
+  {
+    "id": 14,
+    "project_name": "Prestige Park Grove Phase 5",
+    "location": "Gachibowli, Hyderabad",
+    "price_range": "\u20b970L - \u20b9148L",
+    "type": "4BHK",
+    "status": "Launching Soon",
+    "developer": "Prestige Group",
+    "features": [
+      "Clubhouse",
+      "Power Backup",
+      "Senior Citizen Zone",
+      "Kids Play Area"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-park-grove.pdf"
+  },
+  {
+    "id": 15,
+    "project_name": "Prestige Raintree Park Phase 1",
+    "location": "Panvel, Mumbai",
+    "price_range": "\u20b9250L - \u20b9304L",
+    "type": "4BHK",
+    "status": "Under Construction",
+    "developer": "Prestige Group",
+    "features": [
+      "Clubhouse",
+      "Smart Home Automation",
+      "Senior Citizen Zone",
+      "Multipurpose Hall"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-raintree-park.pdf"
+  },
+  {
+    "id": 16,
+    "project_name": "Prestige Eden Garden Phase 4",
+    "location": "New Town, Kolkata",
+    "price_range": "\u20b9250L - \u20b9275L",
+    "type": "2BHK",
+    "status": "Under Construction",
+    "developer": "Prestige Group",
+    "features": [
+      "Smart Home Automation",
+      "Swimming Pool",
+      "Senior Citizen Zone",
+      "Gymnasium"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-eden-garden.pdf"
+  },
+  {
+    "id": 17,
+    "project_name": "Prestige Waterford Phase 4",
+    "location": "Whitefield, Bangalore",
+    "price_range": "\u20b945L - \u20b9104L",
+    "type": "4BHK",
+    "status": "Launching Soon",
+    "developer": "Prestige Group",
+    "features": [
+      "Multipurpose Hall",
+      "24x7 Security",
+      "Kids Play Area",
+      "Smart Home Automation"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-waterford.pdf"
+  },
+  {
+    "id": 18,
+    "project_name": "Prestige Shantiniketan Phase 5",
+    "location": "Baner, Pune",
+    "price_range": "\u20b970L - \u20b9150L",
+    "type": "Villa",
+    "status": "Pre-Launch",
+    "developer": "Prestige Group",
+    "features": [
+      "Power Backup",
+      "Swimming Pool",
+      "24x7 Security",
+      "Multipurpose Hall"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-shantiniketan.pdf"
+  },
+  {
+    "id": 19,
+    "project_name": "Prestige Jindal City Phase 1",
+    "location": "Gachibowli, Hyderabad",
+    "price_range": "\u20b9250L - \u20b9318L",
+    "type": "2BHK",
+    "status": "Pre-Launch",
+    "developer": "Prestige Group",
+    "features": [
+      "Gymnasium",
+      "Clubhouse",
+      "24x7 Security",
+      "Swimming Pool"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-jindal-city.pdf"
+  },
+  {
+    "id": 20,
+    "project_name": "Prestige Shantiniketan Phase 5",
+    "location": "Hitech City, Hyderabad",
+    "price_range": "\u20b970L - \u20b9137L",
+    "type": "3BHK",
+    "status": "Launching Soon",
+    "developer": "Prestige Group",
+    "features": [
+      "24x7 Security",
+      "Kids Play Area",
+      "Smart Home Automation",
+      "Gymnasium"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-shantiniketan.pdf"
+  },
+  {
+    "id": 21,
+    "project_name": "Prestige Shantiniketan Phase 3",
+    "location": "Rajarhat, Kolkata",
+    "price_range": "\u20b970L - \u20b9102L",
+    "type": "1BHK",
+    "status": "Pre-Launch",
+    "developer": "Prestige Group",
+    "features": [
+      "24x7 Security",
+      "Power Backup",
+      "Senior Citizen Zone",
+      "Swimming Pool"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-shantiniketan.pdf"
+  },
+  {
+    "id": 22,
+    "project_name": "Prestige Shantiniketan Phase 4",
+    "location": "ECR, Chennai",
+    "price_range": "\u20b9250L - \u20b9317L",
+    "type": "1BHK",
+    "status": "Launching Soon",
+    "developer": "Prestige Group",
+    "features": [
+      "Smart Home Automation",
+      "Kids Play Area",
+      "Senior Citizen Zone",
+      "Swimming Pool"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-shantiniketan.pdf"
+  },
+  {
+    "id": 23,
+    "project_name": "Prestige Raintree Park Phase 2",
+    "location": "New Town, Kolkata",
+    "price_range": "\u20b9250L - \u20b9292L",
+    "type": "Penthouse",
+    "status": "Under Construction",
+    "developer": "Prestige Group",
+    "features": [
+      "Clubhouse",
+      "Smart Home Automation",
+      "Senior Citizen Zone",
+      "Kids Play Area"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-raintree-park.pdf"
+  },
+  {
+    "id": 24,
+    "project_name": "Prestige Falcon City Phase 4",
+    "location": "Sarjapur Road, Bangalore",
+    "price_range": "\u20b945L - \u20b982L",
+    "type": "Studio Apartment",
+    "status": "Under Construction",
+    "developer": "Prestige Group",
+    "features": [
+      "24x7 Security",
+      "Gymnasium",
+      "Senior Citizen Zone",
+      "Smart Home Automation"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-falcon-city.pdf"
+  },
+  {
+    "id": 25,
+    "project_name": "Prestige Lakeside Habitat Phase 5",
+    "location": "Hitech City, Hyderabad",
+    "price_range": "\u20b9250L - \u20b9324L",
+    "type": "2BHK",
+    "status": "Launching Soon",
+    "developer": "Prestige Group",
+    "features": [
+      "Clubhouse",
+      "Senior Citizen Zone",
+      "Multipurpose Hall",
+      "24x7 Security"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-lakeside-habitat.pdf"
+  },
+  {
+    "id": 26,
+    "project_name": "Prestige Park Grove Phase 3",
+    "location": "Yeshwanthpur, Bangalore",
+    "price_range": "\u20b970L - \u20b9139L",
+    "type": "2BHK",
+    "status": "Ready to Move",
+    "developer": "Prestige Group",
+    "features": [
+      "Multipurpose Hall",
+      "Smart Home Automation",
+      "24x7 Security",
+      "Swimming Pool"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-park-grove.pdf"
+  },
+  {
+    "id": 27,
+    "project_name": "Prestige Jindal City Phase 4",
+    "location": "Baner, Pune",
+    "price_range": "\u20b945L - \u20b978L",
+    "type": "3BHK",
+    "status": "Ready to Move",
+    "developer": "Prestige Group",
+    "features": [
+      "Multipurpose Hall",
+      "Kids Play Area",
+      "Swimming Pool",
+      "Smart Home Automation"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-jindal-city.pdf"
+  },
+  {
+    "id": 28,
+    "project_name": "Prestige Jindal City Phase 5",
+    "location": "Whitefield, Bangalore",
+    "price_range": "\u20b9250L - \u20b9275L",
+    "type": "1BHK",
+    "status": "Under Construction",
+    "developer": "Prestige Group",
+    "features": [
+      "Swimming Pool",
+      "Senior Citizen Zone",
+      "Multipurpose Hall",
+      "Power Backup"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-jindal-city.pdf"
+  },
+  {
+    "id": 29,
+    "project_name": "Prestige Raintree Park Phase 1",
+    "location": "Panvel, Mumbai",
+    "price_range": "\u20b9120L - \u20b9183L",
+    "type": "Penthouse",
+    "status": "Pre-Launch",
+    "developer": "Prestige Group",
+    "features": [
+      "Gymnasium",
+      "Senior Citizen Zone",
+      "Multipurpose Hall",
+      "Clubhouse"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-raintree-park.pdf"
+  },
+  {
+    "id": 30,
+    "project_name": "Prestige Shantiniketan Phase 4",
+    "location": "Panvel, Mumbai",
+    "price_range": "\u20b9250L - \u20b9283L",
+    "type": "Villa",
+    "status": "Ready to Move",
+    "developer": "Prestige Group",
+    "features": [
+      "Swimming Pool",
+      "Senior Citizen Zone",
+      "Multipurpose Hall",
+      "Clubhouse"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-shantiniketan.pdf"
+  },
+  {
+    "id": 31,
+    "project_name": "Prestige Waterford Phase 4",
+    "location": "Baner, Pune",
+    "price_range": "\u20b9250L - \u20b9306L",
+    "type": "3BHK",
+    "status": "Ready to Move",
+    "developer": "Prestige Group",
+    "features": [
+      "Swimming Pool",
+      "Senior Citizen Zone",
+      "24x7 Security",
+      "Multipurpose Hall"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-waterford.pdf"
+  },
+  {
+    "id": 32,
+    "project_name": "Prestige Falcon City Phase 2",
+    "location": "Hitech City, Hyderabad",
+    "price_range": "\u20b9120L - \u20b9152L",
+    "type": "2BHK",
+    "status": "Launching Soon",
+    "developer": "Prestige Group",
+    "features": [
+      "Clubhouse",
+      "Smart Home Automation",
+      "Multipurpose Hall",
+      "Power Backup"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-falcon-city.pdf"
+  },
+  {
+    "id": 33,
+    "project_name": "Prestige Falcon City Phase 2",
+    "location": "New Town, Kolkata",
+    "price_range": "\u20b9250L - \u20b9296L",
+    "type": "1BHK",
+    "status": "Ready to Move",
+    "developer": "Prestige Group",
+    "features": [
+      "Multipurpose Hall",
+      "Swimming Pool",
+      "24x7 Security",
+      "Gymnasium"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-falcon-city.pdf"
+  },
+  {
+    "id": 34,
+    "project_name": "Prestige Jindal City Phase 4",
+    "location": "ECR, Chennai",
+    "price_range": "\u20b9120L - \u20b9154L",
+    "type": "2BHK",
+    "status": "Pre-Launch",
+    "developer": "Prestige Group",
+    "features": [
+      "Clubhouse",
+      "Swimming Pool",
+      "Kids Play Area",
+      "Gymnasium"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-jindal-city.pdf"
+  },
+  {
+    "id": 35,
+    "project_name": "Prestige Falcon City Phase 2",
+    "location": "ECR, Chennai",
+    "price_range": "\u20b9120L - \u20b9150L",
+    "type": "1BHK",
+    "status": "Under Construction",
+    "developer": "Prestige Group",
+    "features": [
+      "Power Backup",
+      "Kids Play Area",
+      "Gymnasium",
+      "Smart Home Automation"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-falcon-city.pdf"
+  },
+  {
+    "id": 36,
+    "project_name": "Prestige Falcon City Phase 2",
+    "location": "Yeshwanthpur, Bangalore",
+    "price_range": "\u20b9250L - \u20b9298L",
+    "type": "3BHK",
+    "status": "Under Construction",
+    "developer": "Prestige Group",
+    "features": [
+      "Kids Play Area",
+      "24x7 Security",
+      "Senior Citizen Zone",
+      "Multipurpose Hall"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-falcon-city.pdf"
+  },
+  {
+    "id": 37,
+    "project_name": "Prestige Cityscape Phase 2",
+    "location": "New Town, Kolkata",
+    "price_range": "\u20b970L - \u20b9101L",
+    "type": "1BHK",
+    "status": "Pre-Launch",
+    "developer": "Prestige Group",
+    "features": [
+      "Smart Home Automation",
+      "Clubhouse",
+      "24x7 Security",
+      "Multipurpose Hall"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-cityscape.pdf"
+  },
+  {
+    "id": 38,
+    "project_name": "Prestige Willow Tree Phase 2",
+    "location": "Gachibowli, Hyderabad",
+    "price_range": "\u20b945L - \u20b977L",
+    "type": "4BHK",
+    "status": "Under Construction",
+    "developer": "Prestige Group",
+    "features": [
+      "Clubhouse",
+      "Kids Play Area",
+      "24x7 Security",
+      "Swimming Pool"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-willow-tree.pdf"
+  },
+  {
+    "id": 39,
+    "project_name": "Prestige Lakeside Habitat Phase 5",
+    "location": "New Town, Kolkata",
+    "price_range": "\u20b9120L - \u20b9162L",
+    "type": "1BHK",
+    "status": "Pre-Launch",
+    "developer": "Prestige Group",
+    "features": [
+      "Smart Home Automation",
+      "24x7 Security",
+      "Clubhouse",
+      "Multipurpose Hall"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-lakeside-habitat.pdf"
+  },
+  {
+    "id": 40,
+    "project_name": "Prestige Willow Tree Phase 2",
+    "location": "Gachibowli, Hyderabad",
+    "price_range": "\u20b970L - \u20b9105L",
+    "type": "2BHK",
+    "status": "Pre-Launch",
+    "developer": "Prestige Group",
+    "features": [
+      "Multipurpose Hall",
+      "Smart Home Automation",
+      "Gymnasium",
+      "Power Backup"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-willow-tree.pdf"
+  },
+  {
+    "id": 41,
+    "project_name": "Prestige Park Grove Phase 2",
+    "location": "Whitefield, Bangalore",
+    "price_range": "\u20b9120L - \u20b9183L",
+    "type": "1BHK",
+    "status": "Pre-Launch",
+    "developer": "Prestige Group",
+    "features": [
+      "Kids Play Area",
+      "Swimming Pool",
+      "Multipurpose Hall",
+      "24x7 Security"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-park-grove.pdf"
+  },
+  {
+    "id": 42,
+    "project_name": "Prestige Willow Tree Phase 4",
+    "location": "Whitefield, Bangalore",
+    "price_range": "\u20b9250L - \u20b9329L",
+    "type": "Penthouse",
+    "status": "Ready to Move",
+    "developer": "Prestige Group",
+    "features": [
+      "Smart Home Automation",
+      "Swimming Pool",
+      "Multipurpose Hall",
+      "Power Backup"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-willow-tree.pdf"
+  },
+  {
+    "id": 43,
+    "project_name": "Prestige Raintree Park Phase 2",
+    "location": "Panvel, Mumbai",
+    "price_range": "\u20b9250L - \u20b9311L",
+    "type": "Villa",
+    "status": "Launching Soon",
+    "developer": "Prestige Group",
+    "features": [
+      "Smart Home Automation",
+      "Power Backup",
+      "24x7 Security",
+      "Senior Citizen Zone"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-raintree-park.pdf"
+  },
+  {
+    "id": 44,
+    "project_name": "Prestige Raintree Park Phase 3",
+    "location": "Whitefield, Bangalore",
+    "price_range": "\u20b970L - \u20b9135L",
+    "type": "3BHK",
+    "status": "Launching Soon",
+    "developer": "Prestige Group",
+    "features": [
+      "Kids Play Area",
+      "Gymnasium",
+      "24x7 Security",
+      "Smart Home Automation"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-raintree-park.pdf"
+  },
+  {
+    "id": 45,
+    "project_name": "Prestige Willow Tree Phase 1",
+    "location": "Gachibowli, Hyderabad",
+    "price_range": "\u20b9120L - \u20b9155L",
+    "type": "4BHK",
+    "status": "Pre-Launch",
+    "developer": "Prestige Group",
+    "features": [
+      "Clubhouse",
+      "Power Backup",
+      "Senior Citizen Zone",
+      "Multipurpose Hall"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-willow-tree.pdf"
+  },
+  {
+    "id": 46,
+    "project_name": "Prestige Willow Tree Phase 1",
+    "location": "Hitech City, Hyderabad",
+    "price_range": "\u20b9120L - \u20b9164L",
+    "type": "Villa",
+    "status": "Ready to Move",
+    "developer": "Prestige Group",
+    "features": [
+      "Power Backup",
+      "Clubhouse",
+      "Swimming Pool",
+      "Smart Home Automation"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-willow-tree.pdf"
+  },
+  {
+    "id": 47,
+    "project_name": "Prestige Falcon City Phase 5",
+    "location": "Baner, Pune",
+    "price_range": "\u20b9250L - \u20b9307L",
+    "type": "2BHK",
+    "status": "Launching Soon",
+    "developer": "Prestige Group",
+    "features": [
+      "Senior Citizen Zone",
+      "Kids Play Area",
+      "Gymnasium",
+      "Multipurpose Hall"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-falcon-city.pdf"
+  },
+  {
+    "id": 48,
+    "project_name": "Prestige Lakeside Habitat Phase 2",
+    "location": "Sarjapur Road, Bangalore",
+    "price_range": "\u20b9250L - \u20b9295L",
+    "type": "Penthouse",
+    "status": "Ready to Move",
+    "developer": "Prestige Group",
+    "features": [
+      "Swimming Pool",
+      "Multipurpose Hall",
+      "Kids Play Area",
+      "Smart Home Automation"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-lakeside-habitat.pdf"
+  },
+  {
+    "id": 49,
+    "project_name": "Prestige Lakeside Habitat Phase 2",
+    "location": "Yeshwanthpur, Bangalore",
+    "price_range": "\u20b9120L - \u20b9170L",
+    "type": "Studio Apartment",
+    "status": "Under Construction",
+    "developer": "Prestige Group",
+    "features": [
+      "24x7 Security",
+      "Smart Home Automation",
+      "Multipurpose Hall",
+      "Clubhouse"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-lakeside-habitat.pdf"
+  },
+  {
+    "id": 50,
+    "project_name": "Prestige Jindal City Phase 3",
+    "location": "Yeshwanthpur, Bangalore",
+    "price_range": "\u20b9250L - \u20b9283L",
+    "type": "2BHK",
+    "status": "Under Construction",
+    "developer": "Prestige Group",
+    "features": [
+      "Multipurpose Hall",
+      "24x7 Security",
+      "Clubhouse",
+      "Swimming Pool"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-jindal-city.pdf"
+  },
+  {
+    "id": 51,
+    "project_name": "Prestige Park Grove Phase 2",
+    "location": "Yeshwanthpur, Bangalore",
+    "price_range": "\u20b9250L - \u20b9283L",
+    "type": "Studio Apartment",
+    "status": "Pre-Launch",
+    "developer": "Prestige Group",
+    "features": [
+      "Gymnasium",
+      "Kids Play Area",
+      "Senior Citizen Zone",
+      "Swimming Pool"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-park-grove.pdf"
+  },
+  {
+    "id": 52,
+    "project_name": "Prestige Cityscape Phase 2",
+    "location": "Rajarhat, Kolkata",
+    "price_range": "\u20b970L - \u20b9120L",
+    "type": "1BHK",
+    "status": "Under Construction",
+    "developer": "Prestige Group",
+    "features": [
+      "Swimming Pool",
+      "Kids Play Area",
+      "Clubhouse",
+      "Power Backup"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-cityscape.pdf"
+  },
+  {
+    "id": 53,
+    "project_name": "Prestige Willow Tree Phase 4",
+    "location": "New Town, Kolkata",
+    "price_range": "\u20b970L - \u20b9125L",
+    "type": "4BHK",
+    "status": "Launching Soon",
+    "developer": "Prestige Group",
+    "features": [
+      "Smart Home Automation",
+      "Power Backup",
+      "Senior Citizen Zone",
+      "Gymnasium"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-willow-tree.pdf"
+  },
+  {
+    "id": 54,
+    "project_name": "Prestige Park Grove Phase 1",
+    "location": "Sarjapur Road, Bangalore",
+    "price_range": "\u20b970L - \u20b9134L",
+    "type": "Villa",
+    "status": "Pre-Launch",
+    "developer": "Prestige Group",
+    "features": [
+      "Smart Home Automation",
+      "Gymnasium",
+      "Swimming Pool",
+      "Senior Citizen Zone"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-park-grove.pdf"
+  },
+  {
+    "id": 55,
+    "project_name": "Prestige Cityscape Phase 3",
+    "location": "Baner, Pune",
+    "price_range": "\u20b970L - \u20b9106L",
+    "type": "3BHK",
+    "status": "Under Construction",
+    "developer": "Prestige Group",
+    "features": [
+      "Power Backup",
+      "24x7 Security",
+      "Smart Home Automation",
+      "Clubhouse"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-cityscape.pdf"
+  },
+  {
+    "id": 56,
+    "project_name": "Prestige Park Grove Phase 1",
+    "location": "Gachibowli, Hyderabad",
+    "price_range": "\u20b945L - \u20b981L",
+    "type": "4BHK",
+    "status": "Under Construction",
+    "developer": "Prestige Group",
+    "features": [
+      "Gymnasium",
+      "Power Backup",
+      "24x7 Security",
+      "Kids Play Area"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-park-grove.pdf"
+  },
+  {
+    "id": 57,
+    "project_name": "Prestige Cityscape Phase 3",
+    "location": "Sarjapur Road, Bangalore",
+    "price_range": "\u20b9250L - \u20b9295L",
+    "type": "3BHK",
+    "status": "Pre-Launch",
+    "developer": "Prestige Group",
+    "features": [
+      "Gymnasium",
+      "Swimming Pool",
+      "Smart Home Automation",
+      "Senior Citizen Zone"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-cityscape.pdf"
+  },
+  {
+    "id": 58,
+    "project_name": "Prestige Eden Garden Phase 2",
+    "location": "Baner, Pune",
+    "price_range": "\u20b9250L - \u20b9280L",
+    "type": "Villa",
+    "status": "Launching Soon",
+    "developer": "Prestige Group",
+    "features": [
+      "Smart Home Automation",
+      "Clubhouse",
+      "24x7 Security",
+      "Senior Citizen Zone"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-eden-garden.pdf"
+  },
+  {
+    "id": 59,
+    "project_name": "Prestige Falcon City Phase 3",
+    "location": "Hitech City, Hyderabad",
+    "price_range": "\u20b970L - \u20b9107L",
+    "type": "2BHK",
+    "status": "Under Construction",
+    "developer": "Prestige Group",
+    "features": [
+      "Clubhouse",
+      "Smart Home Automation",
+      "Swimming Pool",
+      "Power Backup"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-falcon-city.pdf"
+  },
+  {
+    "id": 60,
+    "project_name": "Prestige Cityscape Phase 1",
+    "location": "Hitech City, Hyderabad",
+    "price_range": "\u20b9250L - \u20b9282L",
+    "type": "2BHK",
+    "status": "Pre-Launch",
+    "developer": "Prestige Group",
+    "features": [
+      "Clubhouse",
+      "Smart Home Automation",
+      "Senior Citizen Zone",
+      "Power Backup"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-cityscape.pdf"
+  },
+  {
+    "id": 61,
+    "project_name": "Prestige Park Grove Phase 1",
+    "location": "Baner, Pune",
+    "price_range": "\u20b945L - \u20b989L",
+    "type": "4BHK",
+    "status": "Ready to Move",
+    "developer": "Prestige Group",
+    "features": [
+      "Smart Home Automation",
+      "Swimming Pool",
+      "24x7 Security",
+      "Power Backup"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-park-grove.pdf"
+  },
+  {
+    "id": 62,
+    "project_name": "Prestige Falcon City Phase 3",
+    "location": "Gachibowli, Hyderabad",
+    "price_range": "\u20b9250L - \u20b9306L",
+    "type": "Penthouse",
+    "status": "Ready to Move",
+    "developer": "Prestige Group",
+    "features": [
+      "Smart Home Automation",
+      "24x7 Security",
+      "Power Backup",
+      "Senior Citizen Zone"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-falcon-city.pdf"
+  },
+  {
+    "id": 63,
+    "project_name": "Prestige Jindal City Phase 1",
+    "location": "Yeshwanthpur, Bangalore",
+    "price_range": "\u20b9250L - \u20b9277L",
+    "type": "2BHK",
+    "status": "Pre-Launch",
+    "developer": "Prestige Group",
+    "features": [
+      "24x7 Security",
+      "Gymnasium",
+      "Kids Play Area",
+      "Senior Citizen Zone"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-jindal-city.pdf"
+  },
+  {
+    "id": 64,
+    "project_name": "Prestige Lakeside Habitat Phase 2",
+    "location": "Yeshwanthpur, Bangalore",
+    "price_range": "\u20b9120L - \u20b9169L",
+    "type": "Villa",
+    "status": "Under Construction",
+    "developer": "Prestige Group",
+    "features": [
+      "Gymnasium",
+      "Smart Home Automation",
+      "Power Backup",
+      "Clubhouse"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-lakeside-habitat.pdf"
+  },
+  {
+    "id": 65,
+    "project_name": "Prestige Lakeside Habitat Phase 1",
+    "location": "Sarjapur Road, Bangalore",
+    "price_range": "\u20b945L - \u20b9102L",
+    "type": "Penthouse",
+    "status": "Pre-Launch",
+    "developer": "Prestige Group",
+    "features": [
+      "Swimming Pool",
+      "Gymnasium",
+      "Kids Play Area",
+      "24x7 Security"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-lakeside-habitat.pdf"
+  },
+  {
+    "id": 66,
+    "project_name": "Prestige Jindal City Phase 3",
+    "location": "Hitech City, Hyderabad",
+    "price_range": "\u20b970L - \u20b9100L",
+    "type": "1BHK",
+    "status": "Pre-Launch",
+    "developer": "Prestige Group",
+    "features": [
+      "Gymnasium",
+      "Smart Home Automation",
+      "Kids Play Area",
+      "Power Backup"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-jindal-city.pdf"
+  },
+  {
+    "id": 67,
+    "project_name": "Prestige Cityscape Phase 2",
+    "location": "Panvel, Mumbai",
+    "price_range": "\u20b945L - \u20b972L",
+    "type": "Villa",
+    "status": "Launching Soon",
+    "developer": "Prestige Group",
+    "features": [
+      "Senior Citizen Zone",
+      "Smart Home Automation",
+      "Gymnasium",
+      "Kids Play Area"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-cityscape.pdf"
+  },
+  {
+    "id": 68,
+    "project_name": "Prestige Falcon City Phase 1",
+    "location": "Sarjapur Road, Bangalore",
+    "price_range": "\u20b9120L - \u20b9150L",
+    "type": "Penthouse",
+    "status": "Pre-Launch",
+    "developer": "Prestige Group",
+    "features": [
+      "Multipurpose Hall",
+      "Smart Home Automation",
+      "Senior Citizen Zone",
+      "Gymnasium"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-falcon-city.pdf"
+  },
+  {
+    "id": 69,
+    "project_name": "Prestige Lakeside Habitat Phase 5",
+    "location": "Baner, Pune",
+    "price_range": "\u20b945L - \u20b970L",
+    "type": "Villa",
+    "status": "Ready to Move",
+    "developer": "Prestige Group",
+    "features": [
+      "Senior Citizen Zone",
+      "Gymnasium",
+      "Swimming Pool",
+      "Kids Play Area"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-lakeside-habitat.pdf"
+  },
+  {
+    "id": 70,
+    "project_name": "Prestige Willow Tree Phase 5",
+    "location": "Gachibowli, Hyderabad",
+    "price_range": "\u20b9120L - \u20b9163L",
+    "type": "Studio Apartment",
+    "status": "Pre-Launch",
+    "developer": "Prestige Group",
+    "features": [
+      "Kids Play Area",
+      "Clubhouse",
+      "Smart Home Automation",
+      "Senior Citizen Zone"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-willow-tree.pdf"
+  },
+  {
+    "id": 71,
+    "project_name": "Prestige Shantiniketan Phase 1",
+    "location": "ECR, Chennai",
+    "price_range": "\u20b9120L - \u20b9181L",
+    "type": "1BHK",
+    "status": "Launching Soon",
+    "developer": "Prestige Group",
+    "features": [
+      "Power Backup",
+      "Multipurpose Hall",
+      "Swimming Pool",
+      "Senior Citizen Zone"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-shantiniketan.pdf"
+  },
+  {
+    "id": 72,
+    "project_name": "Prestige Shantiniketan Phase 5",
+    "location": "Sarjapur Road, Bangalore",
+    "price_range": "\u20b945L - \u20b999L",
+    "type": "4BHK",
+    "status": "Under Construction",
+    "developer": "Prestige Group",
+    "features": [
+      "Swimming Pool",
+      "Multipurpose Hall",
+      "24x7 Security",
+      "Power Backup"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-shantiniketan.pdf"
+  },
+  {
+    "id": 73,
+    "project_name": "Prestige Lakeside Habitat Phase 2",
+    "location": "New Town, Kolkata",
+    "price_range": "\u20b970L - \u20b9124L",
+    "type": "3BHK",
+    "status": "Launching Soon",
+    "developer": "Prestige Group",
+    "features": [
+      "24x7 Security",
+      "Swimming Pool",
+      "Power Backup",
+      "Multipurpose Hall"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-lakeside-habitat.pdf"
+  },
+  {
+    "id": 74,
+    "project_name": "Prestige Cityscape Phase 2",
+    "location": "Sarjapur Road, Bangalore",
+    "price_range": "\u20b945L - \u20b9117L",
+    "type": "2BHK",
+    "status": "Under Construction",
+    "developer": "Prestige Group",
+    "features": [
+      "Clubhouse",
+      "Power Backup",
+      "Swimming Pool",
+      "Multipurpose Hall"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-cityscape.pdf"
+  },
+  {
+    "id": 75,
+    "project_name": "Prestige Shantiniketan Phase 1",
+    "location": "New Town, Kolkata",
+    "price_range": "\u20b945L - \u20b9114L",
+    "type": "4BHK",
+    "status": "Pre-Launch",
+    "developer": "Prestige Group",
+    "features": [
+      "Swimming Pool",
+      "Kids Play Area",
+      "Multipurpose Hall",
+      "Gymnasium"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-shantiniketan.pdf"
+  },
+  {
+    "id": 76,
+    "project_name": "Prestige Raintree Park Phase 4",
+    "location": "Yeshwanthpur, Bangalore",
+    "price_range": "\u20b9250L - \u20b9328L",
+    "type": "Villa",
+    "status": "Pre-Launch",
+    "developer": "Prestige Group",
+    "features": [
+      "24x7 Security",
+      "Kids Play Area",
+      "Smart Home Automation",
+      "Swimming Pool"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-raintree-park.pdf"
+  },
+  {
+    "id": 77,
+    "project_name": "Prestige Shantiniketan Phase 3",
+    "location": "Panvel, Mumbai",
+    "price_range": "\u20b945L - \u20b988L",
+    "type": "1BHK",
+    "status": "Under Construction",
+    "developer": "Prestige Group",
+    "features": [
+      "Multipurpose Hall",
+      "Smart Home Automation",
+      "Gymnasium",
+      "24x7 Security"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-shantiniketan.pdf"
+  },
+  {
+    "id": 78,
+    "project_name": "Prestige Falcon City Phase 1",
+    "location": "Yeshwanthpur, Bangalore",
+    "price_range": "\u20b9120L - \u20b9195L",
+    "type": "Villa",
+    "status": "Ready to Move",
+    "developer": "Prestige Group",
+    "features": [
+      "Swimming Pool",
+      "Kids Play Area",
+      "Gymnasium",
+      "24x7 Security"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-falcon-city.pdf"
+  },
+  {
+    "id": 79,
+    "project_name": "Prestige Raintree Park Phase 4",
+    "location": "Gachibowli, Hyderabad",
+    "price_range": "\u20b9120L - \u20b9196L",
+    "type": "Villa",
+    "status": "Ready to Move",
+    "developer": "Prestige Group",
+    "features": [
+      "Power Backup",
+      "Swimming Pool",
+      "Smart Home Automation",
+      "24x7 Security"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-raintree-park.pdf"
+  },
+  {
+    "id": 80,
+    "project_name": "Prestige Park Grove Phase 1",
+    "location": "Yeshwanthpur, Bangalore",
+    "price_range": "\u20b9250L - \u20b9324L",
+    "type": "Penthouse",
+    "status": "Pre-Launch",
+    "developer": "Prestige Group",
+    "features": [
+      "Clubhouse",
+      "Gymnasium",
+      "Senior Citizen Zone",
+      "Swimming Pool"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-park-grove.pdf"
+  },
+  {
+    "id": 81,
+    "project_name": "Prestige Willow Tree Phase 5",
+    "location": "New Town, Kolkata",
+    "price_range": "\u20b945L - \u20b9108L",
+    "type": "4BHK",
+    "status": "Under Construction",
+    "developer": "Prestige Group",
+    "features": [
+      "Swimming Pool",
+      "Gymnasium",
+      "Power Backup",
+      "24x7 Security"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-willow-tree.pdf"
+  },
+  {
+    "id": 82,
+    "project_name": "Prestige Shantiniketan Phase 3",
+    "location": "Panvel, Mumbai",
+    "price_range": "\u20b9120L - \u20b9165L",
+    "type": "2BHK",
+    "status": "Under Construction",
+    "developer": "Prestige Group",
+    "features": [
+      "Clubhouse",
+      "Kids Play Area",
+      "24x7 Security",
+      "Swimming Pool"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-shantiniketan.pdf"
+  },
+  {
+    "id": 83,
+    "project_name": "Prestige Raintree Park Phase 2",
+    "location": "Hitech City, Hyderabad",
+    "price_range": "\u20b9120L - \u20b9189L",
+    "type": "1BHK",
+    "status": "Ready to Move",
+    "developer": "Prestige Group",
+    "features": [
+      "Kids Play Area",
+      "Swimming Pool",
+      "Clubhouse",
+      "24x7 Security"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-raintree-park.pdf"
+  },
+  {
+    "id": 84,
+    "project_name": "Prestige Jindal City Phase 4",
+    "location": "ECR, Chennai",
+    "price_range": "\u20b9120L - \u20b9183L",
+    "type": "2BHK",
+    "status": "Under Construction",
+    "developer": "Prestige Group",
+    "features": [
+      "Senior Citizen Zone",
+      "Power Backup",
+      "Kids Play Area",
+      "Smart Home Automation"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-jindal-city.pdf"
+  },
+  {
+    "id": 85,
+    "project_name": "Prestige Jindal City Phase 1",
+    "location": "Sarjapur Road, Bangalore",
+    "price_range": "\u20b9250L - \u20b9310L",
+    "type": "1BHK",
+    "status": "Pre-Launch",
+    "developer": "Prestige Group",
+    "features": [
+      "Clubhouse",
+      "Smart Home Automation",
+      "Gymnasium",
+      "Power Backup"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-jindal-city.pdf"
+  },
+  {
+    "id": 86,
+    "project_name": "Prestige Shantiniketan Phase 5",
+    "location": "Gachibowli, Hyderabad",
+    "price_range": "\u20b9250L - \u20b9282L",
+    "type": "Studio Apartment",
+    "status": "Pre-Launch",
+    "developer": "Prestige Group",
+    "features": [
+      "24x7 Security",
+      "Clubhouse",
+      "Swimming Pool",
+      "Kids Play Area"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-shantiniketan.pdf"
+  },
+  {
+    "id": 87,
+    "project_name": "Prestige Eden Garden Phase 4",
+    "location": "ECR, Chennai",
+    "price_range": "\u20b970L - \u20b9113L",
+    "type": "Studio Apartment",
+    "status": "Ready to Move",
+    "developer": "Prestige Group",
+    "features": [
+      "Kids Play Area",
+      "Multipurpose Hall",
+      "Power Backup",
+      "Swimming Pool"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-eden-garden.pdf"
+  },
+  {
+    "id": 88,
+    "project_name": "Prestige Shantiniketan Phase 5",
+    "location": "Sarjapur Road, Bangalore",
+    "price_range": "\u20b945L - \u20b977L",
+    "type": "3BHK",
+    "status": "Ready to Move",
+    "developer": "Prestige Group",
+    "features": [
+      "24x7 Security",
+      "Gymnasium",
+      "Power Backup",
+      "Kids Play Area"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-shantiniketan.pdf"
+  },
+  {
+    "id": 89,
+    "project_name": "Prestige Lakeside Habitat Phase 5",
+    "location": "Sarjapur Road, Bangalore",
+    "price_range": "\u20b945L - \u20b9121L",
+    "type": "3BHK",
+    "status": "Under Construction",
+    "developer": "Prestige Group",
+    "features": [
+      "Swimming Pool",
+      "Multipurpose Hall",
+      "Smart Home Automation",
+      "Power Backup"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-lakeside-habitat.pdf"
+  },
+  {
+    "id": 90,
+    "project_name": "Prestige Falcon City Phase 3",
+    "location": "Yeshwanthpur, Bangalore",
+    "price_range": "\u20b945L - \u20b9118L",
+    "type": "Penthouse",
+    "status": "Launching Soon",
+    "developer": "Prestige Group",
+    "features": [
+      "24x7 Security",
+      "Swimming Pool",
+      "Smart Home Automation",
+      "Power Backup"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-falcon-city.pdf"
+  },
+  {
+    "id": 91,
+    "project_name": "Prestige Raintree Park Phase 4",
+    "location": "Baner, Pune",
+    "price_range": "\u20b9120L - \u20b9153L",
+    "type": "2BHK",
+    "status": "Under Construction",
+    "developer": "Prestige Group",
+    "features": [
+      "Power Backup",
+      "Senior Citizen Zone",
+      "24x7 Security",
+      "Swimming Pool"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-raintree-park.pdf"
+  },
+  {
+    "id": 92,
+    "project_name": "Prestige Lakeside Habitat Phase 5",
+    "location": "Rajarhat, Kolkata",
+    "price_range": "\u20b9120L - \u20b9199L",
+    "type": "3BHK",
+    "status": "Launching Soon",
+    "developer": "Prestige Group",
+    "features": [
+      "Senior Citizen Zone",
+      "Clubhouse",
+      "Gymnasium",
+      "24x7 Security"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-lakeside-habitat.pdf"
+  },
+  {
+    "id": 93,
+    "project_name": "Prestige Lakeside Habitat Phase 4",
+    "location": "Sarjapur Road, Bangalore",
+    "price_range": "\u20b970L - \u20b9140L",
+    "type": "4BHK",
+    "status": "Launching Soon",
+    "developer": "Prestige Group",
+    "features": [
+      "Swimming Pool",
+      "Senior Citizen Zone",
+      "24x7 Security",
+      "Power Backup"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-lakeside-habitat.pdf"
+  },
+  {
+    "id": 94,
+    "project_name": "Prestige Eden Garden Phase 5",
+    "location": "Whitefield, Bangalore",
+    "price_range": "\u20b945L - \u20b998L",
+    "type": "2BHK",
+    "status": "Under Construction",
+    "developer": "Prestige Group",
+    "features": [
+      "Gymnasium",
+      "Swimming Pool",
+      "Multipurpose Hall",
+      "Power Backup"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-eden-garden.pdf"
+  },
+  {
+    "id": 95,
+    "project_name": "Prestige Willow Tree Phase 3",
+    "location": "Baner, Pune",
+    "price_range": "\u20b9250L - \u20b9290L",
+    "type": "3BHK",
+    "status": "Pre-Launch",
+    "developer": "Prestige Group",
+    "features": [
+      "Kids Play Area",
+      "Swimming Pool",
+      "Multipurpose Hall",
+      "Senior Citizen Zone"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-willow-tree.pdf"
+  },
+  {
+    "id": 96,
+    "project_name": "Prestige Park Grove Phase 5",
+    "location": "Rajarhat, Kolkata",
+    "price_range": "\u20b9250L - \u20b9284L",
+    "type": "Penthouse",
+    "status": "Pre-Launch",
+    "developer": "Prestige Group",
+    "features": [
+      "Clubhouse",
+      "Senior Citizen Zone",
+      "24x7 Security",
+      "Multipurpose Hall"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-park-grove.pdf"
+  },
+  {
+    "id": 97,
+    "project_name": "Prestige Waterford Phase 4",
+    "location": "Gachibowli, Hyderabad",
+    "price_range": "\u20b970L - \u20b9133L",
+    "type": "4BHK",
+    "status": "Launching Soon",
+    "developer": "Prestige Group",
+    "features": [
+      "Multipurpose Hall",
+      "Power Backup",
+      "Senior Citizen Zone",
+      "Smart Home Automation"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-waterford.pdf"
+  },
+  {
+    "id": 98,
+    "project_name": "Prestige Lakeside Habitat Phase 5",
+    "location": "Panvel, Mumbai",
+    "price_range": "\u20b9120L - \u20b9153L",
+    "type": "4BHK",
+    "status": "Under Construction",
+    "developer": "Prestige Group",
+    "features": [
+      "24x7 Security",
+      "Senior Citizen Zone",
+      "Swimming Pool",
+      "Smart Home Automation"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-lakeside-habitat.pdf"
+  },
+  {
+    "id": 99,
+    "project_name": "Prestige Eden Garden Phase 1",
+    "location": "Rajarhat, Kolkata",
+    "price_range": "\u20b9120L - \u20b9161L",
+    "type": "4BHK",
+    "status": "Pre-Launch",
+    "developer": "Prestige Group",
+    "features": [
+      "Multipurpose Hall",
+      "24x7 Security",
+      "Kids Play Area",
+      "Gymnasium"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-eden-garden.pdf"
+  },
+  {
+    "id": 100,
+    "project_name": "Prestige Lakeside Habitat Phase 3",
+    "location": "Gachibowli, Hyderabad",
+    "price_range": "\u20b945L - \u20b9113L",
+    "type": "Villa",
+    "status": "Ready to Move",
+    "developer": "Prestige Group",
+    "features": [
+      "Senior Citizen Zone",
+      "Swimming Pool",
+      "Power Backup",
+      "Multipurpose Hall"
+    ],
+    "brochure_url": "https://prestigegroup.in/brochures/prestige-lakeside-habitat.pdf"
+  }
+]
